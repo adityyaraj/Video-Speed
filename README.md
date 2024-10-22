@@ -14,9 +14,7 @@ This Chrome extension allows you to easily change the playback speed of HTML5 vi
 Clone or download this repository to your local machine:
 
 ```bash
-
 git clone https://github.com/your-username/video-speed-controller.git
-
 ```
 
 1. Open Google Chrome and navigate to `chrome://extensions/`.
